@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <img alt="TypeScript" align="left" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="Node.js" align="left" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img alt="PHP" align="left" src="https://img.shields.io/badge/php%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
+<img alt="SQL" align="left" src="https://img.shields.io/badge/sql%20-%23742BB4.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />
 <br />
 <br />
 <img alt="React" align="left" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
