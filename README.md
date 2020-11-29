@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 <img alt="React" align="left" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img alt="React Native" align="left" src="https://img.shields.io/badge/react native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img alt="React Native" align="left" src="https://img.shields.io/badge/react%20native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img alt="Expo" align="left" src="https://img.shields.io/badge/expo%20-%23000020.svg?&style=for-the-badge&logo=expo&logoColor=white" />
 <img alt="Redux" align="left" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" />
 <img alt="Material-UI" align="left" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" />
@@ -35,16 +35,16 @@ Here are some ideas to get you started:
 <br />
 <img alt="Express.js" align="left" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" />
 <img alt="AdonisJS" align="left" src="https://img.shields.io/badge/adonisjs%20-%23220052.svg?&style=for-the-badge&logo=adonis-js&logoColor=white" />
-<img alt="Cake PHP" align="left" src="https://img.shields.io/badge/cake php%20-%23D33C43.svg?&style=for-the-badge&logo=cake-php&logoColor=white" />
+<img alt="Cake PHP" align="left" src="https://img.shields.io/badge/cake%20php%20-%23D33C43.svg?&style=for-the-badge&logo=cake-php&logoColor=white" />
 <br />
 <br />
 <img alt="MySQL" align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-<img alt="Oracle DB" align="left" src="https://img.shields.io/badge/oracle db%20-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
+<img alt="Oracle DB" align="left" src="https://img.shields.io/badge/oracle%20db%20-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 <img alt="Postgresql" align="left" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 <img alt="MongoDB" align="left" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 <br />
 <br />
-<img alt="VS Code" align="left" src="https://img.shields.io/badge/vs code%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img alt="VS Code" align="left" src="https://img.shields.io/badge/vs%20code%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img alt="Pentaho" align="left" src="https://img.shields.io/badge/pentaho%20-%23E60027.svg?&style=for-the-badge&logo=hitachi&logoColor=white" />
 <img alt="Git" align="left" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
 <img alt="Shell" align="left" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
