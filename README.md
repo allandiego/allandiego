@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 
+[linkedin]: https://www.linkedin.com/in/allan-diego-rodrigues
+
 ## Skills
 <img alt="JavaScript" align="left" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img alt="TypeScript" align="left" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
@@ -51,6 +53,17 @@ Here are some ideas to get you started:
 <img alt="Shell" align="left" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
 
+<br />
+<br />
 
+### Recent Acitivies ✨
 
-[linkedin]: https://www.linkedin.com/in/allan-diego-rodrigues
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allandiego&hide=html&layout=compact&theme=" /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=allandiego&show_icons=true&theme=" /></td>
+  </tr>  
+</table>
+</center>
+
