@@ -104,9 +104,12 @@ Here are some ideas to get you started:
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allandiego&hide=html&layout=compact&theme=" /></td>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=allandiego&show_icons=true&theme=" /></td>
+      <td><img width="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allandiego&layout=compact&langs_count=7&theme=dracula" /></td>
+      <td><img width="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=allandiego&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /></td>
   </tr>  
 </table>
 </center>
+
+![Snake](https://raw.githubusercontent.com/allandiego/allandiego/main/snake.svg)
+
 
