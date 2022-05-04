@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 **Languages**
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=Python&logoColor=white)](#)
 
