@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)](#)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/java-ED8B00?style=flat-square&logo=java&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=Python&logoColor=white)](#)
 
 
@@ -59,12 +58,8 @@ Here are some ideas to get you started:
 [![Nodejs](https://img.shields.io/badge/Nodejs-43853D?style=flat-square&logo=Node.js&logoColor=white)](#)
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux)](#)
 [![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo)](#)
-[![AdonisJS](https://img.shields.io/badge/Adonisjs-220052?style=flat-square&logo=adonisjs&logoColor=white)](#)
 [![Electron](https://img.shields.io/badge/Electron-2B2E3B?style=flat-square&logo=react&logoColor=9feaf9)](#)
-[![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express.js&logoColor=white)](#)
-[![Cake PHP](https://img.shields.io/badge/Cake%20PHP-D33C43?style=flat-square&logo=cakephp&logoColor=white)](#)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](#)
-
+[![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=white)](#)
 
 **Database**
 [![MySQL](https://img.shields.io/badge/MySQL-a0c4db?style=flat-square&logo=mysql)](#)
@@ -72,11 +67,6 @@ Here are some ideas to get you started:
 [![Oracle](https://img.shields.io/badge/oracle-F00000?style=flat-square&logo=oracle&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)](#)
-
-
-**CMS**
-[![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=Wordpress)](#)
-
 
 **OS**
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows)](#)
