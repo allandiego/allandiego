@@ -89,6 +89,9 @@ Here are some ideas to get you started:
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira)](#)
 
 
+$d(p,q)=\sqrt{\sum\limits_{i=1}^{n}(p_i-q_i)^2}$
+
+
 ### Recent Acitivies ✨
 
 <center>
